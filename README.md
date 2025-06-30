@@ -1,13 +1,11 @@
 # Hi there, I'm Mahin 
 
-## About Me
 
-- 🌱 I’m currently learning ML
 
 
 ## Skills
 
-- **Languages**: Java, Python
+- **Languages**: Java, Python, JS
 <!-- - **Frameworks**: [Frameworks You Use]
 - **Tools**: [Tools You Use] -->
 
